@@ -1,0 +1,28 @@
+
+
+.card-header {
+
+    background-color: rosybrown;
+    width: 50%;
+    
+}
+
+.p-2 {
+
+    background-color: palevioletred;
+}
+
+.container.py-4 {
+
+    display: flexbox;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+
+
+
+
+
